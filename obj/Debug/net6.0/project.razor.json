@@ -16308,6 +16308,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\gregr\\Desktop\\Epicodus\\C#\\ToDoListWithAuth\\section-4-to-do-list-with-many-to-many-csharp-net6-6_data_from_multiple_db_tables\\ToDoList\\Views\\Account\\Login.cshtml",
+      "TargetPath": "Views\\Account\\Login.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\gregr\\Desktop\\Epicodus\\C#\\ToDoListWithAuth\\section-4-to-do-list-with-many-to-many-csharp-net6-6_data_from_multiple_db_tables\\ToDoList\\Views\\Tags\\Delete.cshtml",
       "TargetPath": "Views\\Tags\\Delete.cshtml",
       "FileKind": "mvc"
@@ -16358,6 +16363,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\gregr\\Desktop\\Epicodus\\C#\\ToDoListWithAuth\\section-4-to-do-list-with-many-to-many-csharp-net6-6_data_from_multiple_db_tables\\ToDoList\\Views\\Account\\Index.cshtml",
+      "TargetPath": "Views\\Account\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\gregr\\Desktop\\Epicodus\\C#\\ToDoListWithAuth\\section-4-to-do-list-with-many-to-many-csharp-net6-6_data_from_multiple_db_tables\\ToDoList\\Views\\Tags\\AddItem.cshtml",
       "TargetPath": "Views\\Tags\\AddItem.cshtml",
       "FileKind": "mvc"
@@ -16370,6 +16380,11 @@
     {
       "FilePath": "c:\\Users\\gregr\\Desktop\\Epicodus\\C#\\ToDoListWithAuth\\section-4-to-do-list-with-many-to-many-csharp-net6-6_data_from_multiple_db_tables\\ToDoList\\Views\\Items\\Index.cshtml",
       "TargetPath": "Views\\Items\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\gregr\\Desktop\\Epicodus\\C#\\ToDoListWithAuth\\section-4-to-do-list-with-many-to-many-csharp-net6-6_data_from_multiple_db_tables\\ToDoList\\Views\\Account\\Register.cshtml",
+      "TargetPath": "Views\\Account\\Register.cshtml",
       "FileKind": "mvc"
     },
     {

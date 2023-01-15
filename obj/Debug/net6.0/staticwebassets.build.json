@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "2B2iNzMKOBrgMxxL2f3DXu74Vx5E8avub9PQCFICuOY=",
+  "Source": "ToDoList",
+  "BasePath": "_content/ToDoList",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ToDoList\\wwwroot",
+      "Source": "ToDoList",
+      "ContentRoot": "C:\\Users\\gregr\\Desktop\\Epicodus\\C#\\ToDoListWithAuth\\section-4-to-do-list-with-many-to-many-csharp-net6-6_data_from_multiple_db_tables\\ToDoList\\wwwroot\\",
+      "BasePath": "_content/ToDoList",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\gregr\\Desktop\\Epicodus\\C#\\ToDoListWithAuth\\section-4-to-do-list-with-many-to-many-csharp-net6-6_data_from_multiple_db_tables\\ToDoList\\wwwroot\\css\\styles.css",
+      "SourceId": "ToDoList",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\gregr\\Desktop\\Epicodus\\C#\\ToDoListWithAuth\\section-4-to-do-list-with-many-to-many-csharp-net6-6_data_from_multiple_db_tables\\ToDoList\\wwwroot\\",
+      "BasePath": "_content/ToDoList",
+      "RelativePath": "css/styles.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\styles.css"
+    }
+  ]
+}
